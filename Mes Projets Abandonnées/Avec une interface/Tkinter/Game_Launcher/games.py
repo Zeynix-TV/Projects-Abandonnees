@@ -1,0 +1,1 @@
+games = {'Jeu n_1': 'C:/Riot Games/Riot Client/RiotClientServices.exe', 'Test': 'G:/output/DiscordRPC/v1.2/DiscordRPC [v1.2].exe', 'gdg': 'G:/output/DiscordRPC/v1.2/DiscordRPC [v1.2].exe'}
